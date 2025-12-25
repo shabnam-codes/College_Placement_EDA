@@ -1,8 +1,43 @@
 # Exploratory  Data Analysis on College Placement Data
+Analysis of student academic and skill factors influencing campus placement outcomes using Python.
+
+## Introduction
+
+This project focuses on performing exploratory data analysis on a college placement dataset to understand the factors that affect whether a student gets placed or not. The analysis explores academic performance, internships, projects, and skill-related attributes using statistical methods and visualizations. The goal is to uncover meaningful patterns and insights that can support placement-related decision making.
+
+## Technologies
+
+Python  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Jupyter Notebook
+
+## Features
+Data cleaning and preprocessing  
+Statistical analysis (mean, median, correlation)  
+Outlier detection and handling  
+Visualization using histograms, boxplots, and heatmaps  
+Analysis of relationships between student attributes and placement status  
+
+## The Process
+Loaded and explored the dataset to understand structure and data types  
+Cleaned data by handling missing values and inconsistent entries  
+Performed descriptive statistical analysis  
+Visualized key patterns and correlations between variables  
+Interpreted results to identify important placement-related factors  
+
+## What I Learned
+How to perform structured exploratory data analysis on real-world datasets  
+Importance of data cleaning before analysis  
+Using visualizations to communicate insights effectively  
+Understanding how academic and experiential factors impact placements  
+Gained confidence in using Python libraries for data analysis  
+
 ## Project Overview 
 This Data set contains info such as CGPA,Academic_Performance,Placement.    
 This data set is from [College Student Placement Factors Dataset ](https://www.kaggle.com/datasets/sahilislam007/college-student-placement-factors-dataset/data).
-
 
 ### Steps 
 1. Importing Libraries     
